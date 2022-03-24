@@ -34,4 +34,18 @@ public static void hargatotal(int harga){
        System.out.println(print);
        cetakNama("Hello Jerapah sebanyak : ");
 
+Scanner scan = new Scanner(System.in);
+       int i= scan.nextInt();
+       if (i==1){
+           hargatotal(50000);
+       }
+       else if (i==2){
+           hargatotal(60000);
+       }
+       else {
+           hargatotal(100000);
+       }
+       ucapin("rachel");
+   }
+}
    
