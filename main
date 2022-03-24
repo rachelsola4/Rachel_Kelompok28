@@ -1,0 +1,4 @@
+import java.util.Scanner;
+
+public class nyoba2 {
+    public static String tulisan = "Selamat datang di Toko Buku Cemerlang!";
