@@ -15,3 +15,10 @@ public class nyoba2 {
        System.out.print("Saya ingin membeli buku berjudul "+buku);
    }
 
+public class method {
+   public void judulbuku(){
+       System.out.println("judul buku yang tersedia :");
+   }
+   public void judul1() {
+       System.out.println("a). Hello panda");
+   }
